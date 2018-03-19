@@ -2,7 +2,7 @@
 
 Experimenting with Bayes and Email Spam Categorization in Kotlin. No dependencies needed besides Kotlin 1.2 std-lib. 
 
-Chapter 13 of [Data Science from Scratch](https://www.safaribooksonline.com/library/view/data-science-from/9781491901410/ch13.html#naive_bayes) has been the most helpful resource for this project. 
+Chapter 13 of [O'Reilly Data Science from Scratch](https://github.com/joelgrus/data-science-from-scratch/blob/master/code-python3/naive_bayes.py) has been the most helpful resource for this project. 
 
 **OUTPUT:**
 
