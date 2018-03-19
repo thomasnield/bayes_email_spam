@@ -6,7 +6,7 @@ Chapter 13 of [Data Science from Scratch](https://www.safaribooksonline.com/libr
 
 **OUTPUT:**
 
-```kotlin 
+```
 Score for an email containing message: "discount viagra wholesale, hurry while this offer lasts"
 0.9990090904079181
 
